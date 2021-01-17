@@ -2,11 +2,9 @@ __description__ = "PKG description."
 
 __author__ = "An Truong"
 
-__author_email__ = "bian.tquang@gmail.com"
-
 __maintainer__ = "An Truong"
 
-__maintainer_email__ = "bian.tquang@gmail.com"
+__maintainer_email__ = "antruong.bq@gmail.com"
 
 __license__ = "MIT"
 
